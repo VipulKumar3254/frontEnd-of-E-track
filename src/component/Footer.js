@@ -1,4 +1,3 @@
-import etrack from './etrack.png';
 function Footer(){
 
     return(<>
