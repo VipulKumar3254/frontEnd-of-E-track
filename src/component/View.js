@@ -29,7 +29,7 @@ return(
         
         <div className="col-md-10 mx-auto col-lg-5">
         <form className="p-3 p-md-5 border rounded-3 bg-light">
-        <h3 className='pt-0'>For office Use/development</h3>
+        <h3 className='pt-0'>For Office Use</h3>
           <div className="form-floating mb-3">
             <input type="email" className="form-control" id="floatingInput" placeholder="name@example.com" />
             <label htmlFor="floatingInput">Email address</label>
